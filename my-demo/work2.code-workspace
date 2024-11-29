@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "my-demo",
+			"path": "../../NIKE/my-demo"
+		}
+	],
+	"settings": {}
+}
