@@ -78,7 +78,7 @@ tar zxvf ../RTK0EF0045Z15001ZJ-v1.2.2_EN/meta-rz-features_codec_v1.2.2.tar.gz
 ```bash
 patch -p1 < ../RTK0EF0045Z0021AZJ-v3.0.6-update3/vlpg306-to-vlpg306update3.patch
 ```
-
+xaxaxsax
 ---
 
 ## **11. Apply Additional Patch Files**
