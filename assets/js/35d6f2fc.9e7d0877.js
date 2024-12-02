@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_demo=self.webpackChunkmy_demo||[]).push([[9332],{6450:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/jayden/my-demo/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
