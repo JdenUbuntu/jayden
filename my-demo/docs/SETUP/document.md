@@ -64,7 +64,7 @@ ssh username@<ip_address>
 ```
 
 ---
-## 4. Installation of Git and Connection with GitHub
+### 4. Installation of Git and Connection with GitHub
 
 **Install Git:**
 
@@ -95,7 +95,7 @@ cat ~/.ssh/id_rsa.pub
 git clone git@github.com:<username>/<repository>.git
 ```
 ---
-## 5. Using Dev Containers in VS Code to Remote Control the Ubuntu System
+### 5. Using Dev Containers in VS Code to Remote Control the Ubuntu System
 
 **Install the Dev Containers Extension:**
 
@@ -112,7 +112,7 @@ git clone git@github.com:<username>/<repository>.git
 **Reopen the Folder in the Container:**
 - Use the **Remote - Containers** extension to open your project inside the container.
 
-## 6. Running Docusaurus on VS Code
+### 6. Running Docusaurus on VS Code
 
 **Install Node.js:**
 
