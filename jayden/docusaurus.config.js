@@ -18,12 +18,12 @@ const config = {
   url: 'https://JdenUbuntu.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-demo/',
+  baseUrl: '/jayden/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'JdenUbuntu', // Usually your GitHub org/user name.
-  projectName: 'my-demo', // Usually your repo name.
+  projectName: 'jayden', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
