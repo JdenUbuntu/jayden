@@ -1,10 +1,10 @@
 ---
-
-# **Yocto Build Project Notes**
-
-This document explains the important files, folders, and steps involved in the Yocto build process for the Renesas RZ/G2L board.
-
+sidebar_position: 3
 ---
+
+# Yocto Build Project Notes
+
+
 ## IMPORTANT FILES/FOLDERS IN YOCTO BUILD
 ### **Deployment of Output Files**
 - **Location**:  

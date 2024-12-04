@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'UBUNTU',
-  tagline: 'Linux is cool',
+  title: 'SKAIISYOURGOD',
+  tagline: '揽佬一直咳嗽',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

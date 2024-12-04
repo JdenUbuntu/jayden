@@ -1,5 +1,7 @@
-
-# **Setting Up Yocto Build Environment for Renesas RZ-G2L**
+---
+sidebar_position: 1
+---
+# Setup of Yocto Build Environment for Renesas RZ-G2L
 
 This guide provides step-by-step instructions to set up a Yocto build environment for the Renesas RZ-G2L board.
 
@@ -27,7 +29,7 @@ tar xzvf rzg.tar.gz
 ---
 
 ## **4. Open Folder in a Development Container**
-- Open the `~/work/rzg` folder in a new development container using Visual Studio Code.![New Dev Container](./images/open_dev.png)
+- Open the `~/work/rzg` folder in a new development container using Visual Studio Code.
 
 ---
 

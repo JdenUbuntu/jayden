@@ -99,11 +99,14 @@ git clone git@github.com:<username>/<repository>.git
 
 **Install the Dev Containers Extension:**
 
-- In VS Code, search for **Dev Containers** in the extensions marketplace and install it.![Dev Container](./Image/DEV_Container.png)
+- In VS Code, search for **Dev Containers** in the extensions marketplace and install it.
+
+![Dev Container](./Image/DEV_Container.png)
 
 **Connect to the Ubuntu System via SSH:**
 - Open the Remote Explorer in VS Code.
-- Use the SSH connection to connect to the Ubuntu system.![Dev Container](./Image/remote.png)
+- Use the SSH connection to connect to the Ubuntu system.
+![Dev Container](./Image/remote.png)
 
 **Create a Dev Container Configuration:**
 - Add a .devcontainer folder to your project.
