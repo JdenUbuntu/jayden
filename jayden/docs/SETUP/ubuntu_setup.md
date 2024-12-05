@@ -4,7 +4,7 @@ title: Setting Up Ubuntu, Docker, and Docusaurus
 description: Step-by-step guide for setting up an Ubuntu system with Docker, SSH, Git, and running Docusaurus on VS Code.
 ---
 
-# Setting Up Ubuntu, Docker, and Docusaurus
+# 1.1 Setting Up Ubuntu, Docker, and Docusaurus
 
 This guide provides a detailed walkthrough for setting up an Ubuntu environment, containerization with Docker, and running a Docusaurus project using Visual Studio Code.
 

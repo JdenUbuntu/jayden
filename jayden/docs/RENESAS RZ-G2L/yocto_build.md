@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Setup of Yocto Build Environment for Renesas RZ-G2L
+# 2.1 Setup of Yocto Build Environment for Renesas RZ-G2L
 
 This guide provides step-by-step instructions to set up a Yocto build environment for the Renesas RZ-G2L board.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Prompting a "Hello World" Program on the RZG2L Board Using Yocto Project
+# 2.2 Prompting a "Hello World" Program on the RZG2L Board Using Yocto Project
 
 ## Overview
 This tutorial demonstrates building and running a "Hello World" program on the RZG2L board by creating a custom Yocto Project layer and integrating a simple C program. The process involves creating a new layer, writing a recipe, adding a C source file, building the image, and deploying it to the board.

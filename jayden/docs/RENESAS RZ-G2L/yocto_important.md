@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Yocto Build Project Notes
+# 2.3 Yocto Build Project Notes
 
 
 ## IMPORTANT FILES/FOLDERS IN YOCTO BUILD
