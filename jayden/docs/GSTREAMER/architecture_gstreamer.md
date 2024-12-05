@@ -5,7 +5,7 @@ Here are the notes in **Markdown format**:
 
 # 3.1 GStreamer Architecture for MOIL Implementation on Renesas RZ/G2L
 
-![Gstreamer Flow](./images/gstreamer1.1.png)
+![Gstreamer Flow](./images%20/gstreamer_1.1.png)
 ## Prerequisite
 Before proceeding with the implementation, the camera parameters must be defined. These include:
 - **Center Point (Cx, Cy)**: The optical center of the fisheye lens.
