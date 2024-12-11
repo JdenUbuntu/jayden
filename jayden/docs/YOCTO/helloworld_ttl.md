@@ -157,4 +157,3 @@ This writes the generated image to an SD card (`/dev/sda`), which will be used t
 ---
 
 By following these steps, you successfully build and execute a "Hello World" program on the RZG2L board, demonstrating a basic workflow in the Yocto Project for embedded systems development.
-```

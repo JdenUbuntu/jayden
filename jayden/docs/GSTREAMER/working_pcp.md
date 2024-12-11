@@ -1,8 +1,6 @@
 ---
 sidebar_position: 3
 ---
-Here’s a breakdown of the **working principle of the remap operation** under the given conditions, formatted in **Markdown**:
-
 # Working Principle of the Remap Operation on Renesas RZ/G2L
 
 The **remap operation** is used to correct fisheye distortion and project the input image (from a fisheye source) into a different format (e.g., equirectangular projection). On the Renesas RZ/G2L, this is optimized by **precomputing mapping tables** and performing only the remap operation at runtime. Below is a detailed breakdown of the working principle.

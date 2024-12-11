@@ -1,9 +1,7 @@
 ---
 sidebar_position: 2
 ---
-Here are the notes in **Markdown format**:
-
-# 3.1 GStreamer Architecture for MOIL Implementation on Renesas RZ/G2L
+# 3.2 GStreamer Architecture for MOIL Implementation on Renesas RZ/G2L
 
 ![Gstreamer Flow](./images%20/gstreamer_1.1.png)
 ## Prerequisite

@@ -1,10 +1,7 @@
 ---
 sidebar_position: 1
 ---
-Here is the explanation of **GStreamer** formatted in **Markdown**:
-
-
-# Introduction to GStreamer
+# 3.1 Introduction to GStreamer
 
 **GStreamer** is an open-source multimedia framework used to build media-handling applications. It is versatile and enables the creation of pipelines for processing audio, video, and other streaming data in real-time.
 
